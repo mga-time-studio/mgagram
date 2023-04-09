@@ -1,0 +1,46 @@
+
+body {
+    background: linear-gradient(to left, #6441A5 ,#2a0845 );
+    border: #30116b 10px groove;
+}
+
+h1 {
+    color: white;
+    text-shadow: 3px 2px 2px black;
+}
+
+button {
+    background: linear-gradient(to left, #fc00ff, #00dbde );
+        box-shadow: 3px 3px 6px black;
+        margin: 27px auto 0px;
+        text-decoration: none;
+        width: 150px;
+        height: 50px;
+        background-color: black;
+        font-family: 'Anton', sans-serif;
+        border: none;
+        border-radius: 10px;
+        text-shadow: 3px 3px 6px black;
+        font-size: 1rem;
+}
+.icon {
+    background-color: white;  
+    border-radius: 10%;
+    border: black 2px solid;
+}
+.program {
+    border-radius: 10%;
+}
+footer {
+    background: gray;
+    display: flex;
+    flex-direction: column;
+    top: -20px;
+    border-radius: 10px;
+  }
+  .autor {
+    border-radius: 10%;
+  }
+  .p {
+    color: white;
+  }
